@@ -1,4 +1,4 @@
-<img src="Professional%20Headshot.jpeg" width="200" align="right" style="border-radius: 10px;" />
+<img src="Professional%20Headshot.jpeg" width="160" align="right" style="border-radius: 10px;" />
 
 # Hi there, I'm Arwen Borowiak 👋
 
