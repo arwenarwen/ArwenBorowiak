@@ -1,6 +1,22 @@
 <img src="Professional%20Headshot.jpeg" width="160" align="right" style="border-radius: 10px;" />
 
-<h1 style="border-bottom: none;">Hi there, I'm Arwen Borowiak 👋</h1>
+<table><tr><td valign="top" width="75%">
+
+# Hi there, I'm Arwen Borowiak 👋
+
+🎓 M.S. Business Analytics — Summa Cum Laude, 4.0 GPA — Penn State Smeal College of Business
+
+🏢 Currently working as a **Digital Supply Chain Excellence Associate at Bayer**
+
+🌍 German citizen — eligible for EU/EFTA and Swiss work sponsorship without restriction
+
+📬 How to reach me: **borowiakarwen@gmail.com**
+
+</td><td valign="top" width="25%">
+
+<img src="Professional%20Headshot.jpeg" width="200" style="border-radius: 10px;" />
+
+</td></tr></table>
 
 🎓 M.S. Business Analytics — Summa Cum Laude, 4.0 GPA — Penn State Smeal College of Business
 
