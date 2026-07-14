@@ -1,4 +1,4 @@
-<table border="0"><tr><td valign="top" width="75%">
+<table border="0" style="border: none; border-collapse: collapse;"><tr><td valign="top" width="75%" style="border: none;">
 
 # Hi there, I'm Arwen Borowiak 👋
 
@@ -10,7 +10,7 @@
 
 📬 How to reach me: **borowiakarwen@gmail.com**
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="25%" style="border: none;">
 
 <img src="Professional%20Headshot.jpeg" width="200" style="border-radius: 10px;" />
 
