@@ -6,7 +6,7 @@
 
 🌍 German citizen — eligible for EU/EFTA and Swiss work sponsorship without restriction
 
-📬 How to reach me: **borowiakarwen@gmail.com**
+📬 How to reach me: **Arwen-borowiak@outlook.com**
 
 ---
 
