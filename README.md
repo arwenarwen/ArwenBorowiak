@@ -1,3 +1,5 @@
+<img src="Professional%20Headshot.jpeg" width="200" align="right" style="border-radius: 10px;" />
+
 # Hi there, I'm Arwen Borowiak 👋
 
 🎓 M.S. Business Analytics — Summa Cum Laude, 4.0 GPA — Penn State Smeal College of Business
