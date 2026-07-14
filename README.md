@@ -1,4 +1,4 @@
-<table border="0" style="border: none; border-collapse: collapse;"><tr><td valign="top" width="75%" style="border: none;">
+<img src="Professional%20Headshot.jpeg" width="200" align="right" style="border-radius: 10px;" />
 
 # Hi there, I'm Arwen Borowiak 👋
 
@@ -10,13 +10,8 @@
 
 📬 How to reach me: **borowiakarwen@gmail.com**
 
-</td><td valign="top" width="25%" style="border: none;">
-
-<img src="Professional%20Headshot.jpeg" width="200" style="border-radius: 10px;" />
-
-</td></tr></table>
-
 ---
+
 
 
 ## 🧠 About Me
