@@ -16,13 +16,7 @@
 
 </td></tr></table>
 
-🎓 M.S. Business Analytics — Summa Cum Laude, 4.0 GPA — Penn State Smeal College of Business
-
-🏢 Currently working as a **Digital Supply Chain Excellence Associate at Bayer**
-
-🌍 German citizen — eligible for EU/EFTA and Swiss work sponsorship without restriction
-
-📬 How to reach me: **Arwen-borowiak@outlook.com**
+---
 
 
 ## 🧠 About Me
